@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm Dat Quach. My interest is software development.
+
+- I'm an IT student from Fairleigh Dickinson University (FDU).
+- I’m currently working on [SFUAnime's Discord bot - Ren](https://github.com/SFUAnime/Ren).
+- How to reach me: dattriquach1702@gmail.com
+
 <!--
 **quachtridat/quachtridat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

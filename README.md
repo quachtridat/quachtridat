@@ -6,7 +6,7 @@
 - I’m currently working on
   - [SFUAnime's Discord bot - Ren](https://github.com/SFUAnime/Ren).
   - [MLH Fellowship (Spring 2022 Fellows)](https://github.com/MLH-Fellowship).
-- How to reach me: dattriquach1702@gmail.com
+- How to reach me: me@dquach.dev
 
 <!--
 **quachtridat/quachtridat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

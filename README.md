@@ -2,7 +2,7 @@
 
 #### I'm Dat Quach. My interest is software development.
 
-- I'm an BSc. IT graduate from Fairleigh Dickinson University (FDU).
+- I'm a software engineer.
 - I’m currently working on:
   - [SFUAnime's Discord bot - Ren](https://github.com/SFUAnime/Ren).
 - What I have worked on:
